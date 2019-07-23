@@ -6,7 +6,7 @@
 #------------------------------------#
 
 """-----------------------------------------------------------------
-Implement Template Matching by using  Normalised Cross Correlation
+Implement Template Matching by using Normalised Cross Correlation
 -------------------------------------------------------------------"""
 
 import argparse
@@ -52,6 +52,9 @@ def template_matching(img, target):
 
 # -------------------------- main -------------------------- #
 if __name__ == '__main__':
+    # read one input from terminal
+    # command line >> python Template_Matching.py -i brain.jpg -t target.jpg
+
     ap = argparse.ArgumentParser()
     ap.add_argument("-i", "--image", required = True, help = "Path to input image")
     ap.add_argument("-t", "--target", required = True, help = "Path to target")
