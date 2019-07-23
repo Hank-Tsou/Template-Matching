@@ -1,17 +1,15 @@
-# Canny Edge Detection
+# Template Matching
 ```
-This project is trying to implement Canny Edge Detection
+This project is trying to implement Template Matching by using Normalised Cross Correlation
 ```
-### Canny Edge Detection
+### Template Matching
 ```
-Input image: input_image.jpg
-Command line >> python Canny_Edge_Detection.py  -i input_image.png
+File name: Template_Matching.py
+Input image: brain.jpg
+Input target: target.jpg
+Command line >> python Template_Matching.py -i brain.jpg -t target.jpg
 ```
 
-The program will show the result include original image and result image. 
-```
-NOTE: The running time for this program is about 10 sec on macbook-pro
-```
 	    
 ![image](https://user-images.githubusercontent.com/28382639/35772842-1c2cafc0-08fa-11e8-9d69-b59e27a92081.png)
 
