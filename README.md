@@ -18,7 +18,7 @@ Useful link for implementation:
 
 - [Change Colorspace](https://github.com/Hank-Tsou/Computer-Vision-OpenCV-Python/tree/master/tutorials/Image_Processing/1_Changing_colorspace)
 - [Image Filtering](https://github.com/Hank-Tsou/Computer-Vision-OpenCV-Python/tree/master/tutorials/Image_Processing/2_Image_Thresholding)
--[Youtube: Normalised Correlation Explanation with Demo](https://www.youtube.com/watch?v=ngEC3sXeUb4)
+- [Youtube: Normalised Correlation Explanation with Demo](https://www.youtube.com/watch?v=ngEC3sXeUb4)
 
 ## Code
 - [Image Matching](https://github.com/Hank-Tsou/Computer-Vision-OpenCV-Python/tree/master/tutorials/Image_Processing/10_Image_Matching)
